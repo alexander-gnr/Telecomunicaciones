@@ -1,0 +1,58 @@
+
+body {
+  color: #666666;
+  background-color: #fffffff5;
+  font-size: 14px;
+  font-family: 'Poppins', sans-serif;
+  line-height: 1.80857;
+  font-weight: normal;
+}
+
+.three_box {  
+  padding-top: 90px;
+}
+
+.box_text {
+  background: rgba(109, 186, 221, 0.055);
+  text-align: center;
+  padding: 50px 20px 20px 20px;
+  border: #428292 solid 1px;
+  border-radius: 15px;
+  margin-top: 4px;
+
+}
+
+.box_text h3 {
+  color: #121010;
+  font-size: 20px;
+  line-height: 22px;
+  font-weight: bold;
+  padding-bottom: 25px;
+}
+
+.box_text p {
+  font-size: 17px;
+  color: #050505;
+  line-height: 30px;
+}
+
+.box_text i {
+  padding-bottom: 25px;
+  display: block;
+}
+
+.icons img{
+  color: #428292;
+  height: 30px;
+}
+
+.row{
+  margin-top: 50px;
+}
+
+.modal-body>img{
+  display: block;
+  margin: auto;
+  width: 50%; 
+  padding: 10px;  
+}
